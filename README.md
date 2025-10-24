@@ -1,2 +1,2 @@
 # Python-Codes
-fundamental Concept codes snippets
+Fundamental Concept code snippets
